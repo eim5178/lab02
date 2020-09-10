@@ -1,9 +1,7 @@
 //Author: Evelyn Moore eim5178@psu.edu
-// Collaborator:
-// Collaborator:
-// Collaborator:
-// Section:
-// Breakout: 
+// Collaborator:Zelin Chen zvc5228@psu.edu
+// Section: 4
+// Breakout: 3
 #include <stdio.h>
 #include <stdlib.h>
 #include <readline/readline.h>
